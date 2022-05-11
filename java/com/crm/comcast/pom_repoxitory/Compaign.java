@@ -14,7 +14,7 @@ public class Compaign {
 	}
    @FindBy(xpath="//img[@src='themes/softed/images/btnL3Add.gif']") 
    private WebElement compaignlnk;
-
+//git
 public WebElement getCompaignlnk() {
 	return compaignlnk;
 }
