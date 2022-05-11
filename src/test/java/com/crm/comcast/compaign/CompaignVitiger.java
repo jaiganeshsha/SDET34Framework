@@ -33,6 +33,7 @@ import com.crm.comcast.pom_repoxitory.Homepage;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 //push to git
+//pull to local
 public class CompaignVitiger extends BaseClass{
 	
 	@Test(groups= {"regression"})
