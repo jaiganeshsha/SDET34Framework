@@ -16,7 +16,7 @@ import com.crm.comcast.pom_repoxitory.Homepage;
 import com.crm.comcast.pom_repoxitory.Loginpage;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-
+//base
 public class BaseClass {
 	public WebDriver driver;
 public	JavaUtility jLip=new JavaUtility();
